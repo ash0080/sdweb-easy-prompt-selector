@@ -36,7 +36,7 @@ class EPSElementBuilder {
 
   // Elements
   static openButton({ onClick }) {
-    const button = EPSElementBuilder.baseButton('🔯タグを選択', { size: 'sm', color: 'secondary' })
+    const button = EPSElementBuilder.baseButton('🔯Select Tags', { size: 'sm', color: 'secondary' })
     button.classList.add('easy_prompt_selector_button')
     button.addEventListener('click', onClick)
 
@@ -178,7 +178,7 @@ class EasyPromptSelector {
     row.appendChild(dropDown)
 
     const settings = document.createElement('div')
-    const checkbox = EPSElementBuilder.checkbox('ネガティブプロンプトに入力', {
+    const checkbox = EPSElementBuilder.checkbox('Enter Negative Prompt', {
       onChange: (checked) => { this.toNegative = checked }
     })
     settings.style.flex = '1'
