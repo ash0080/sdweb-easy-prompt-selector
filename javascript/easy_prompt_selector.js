@@ -79,7 +79,7 @@ class EPSElementBuilder {
     select.style.margin = '2px'
     select.addEventListener('change', (event) => { onChange(event.target.value) })
 
-    const none = ['なし']
+    const none = ['none']
     none.concat(options).forEach((key) => {
       const option = document.createElement('option')
       option.value = key
