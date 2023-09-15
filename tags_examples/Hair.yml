@@ -1,0 +1,81 @@
+hair color:
+  hair color:
+    - black hair
+    - blonde hair
+    - brown hair
+    - red hair
+    - pink hair
+    - blue hair
+    - aqua hair
+    - green hair
+    - purple hair
+    - orange hair
+    - silver hair
+    - gray hair
+    - white hair
+  multiple colors:
+    - multicolored hair
+    - streaked hair
+    - gradient hair
+    - colored inner hair
+    - split-color hair
+
+hair style:
+  length:
+    - very short hair
+    - short hair
+    - medium hair
+    - long hair
+    - very long hair
+    - absurdly long hair
+  type:
+    - messy hair
+    - straight hair
+    - wavy hair
+    - flipped hair
+    - asymmetrical hair
+  ponytail:
+    - ponytail
+    - high ponytail
+    - low ponytail
+    - front ponytail
+    - side ponytail
+    - split ponytail
+    - folded ponytail
+    - short ponytail
+  twin tails:
+    - twintails
+    - low twintails
+    - short twintails
+    - tri tails
+    - quad tails
+  braid: braid
+  half updo: half updo
+  one side up: one side up
+  two side up: two side up
+  multi-tied hair: multi-tied hair
+  topknot: topknot
+  curly hair: curly hair
+  drill hair: drill hair
+  twin drills: twin drills
+  ringlets: ringlets
+  bow-shaped hair: bow-shaped hair
+  hair bun: hair bun
+  hair rings: hair rings
+  dreadlocks: dreadlocks
+
+bangs:
+  - blunt bangs
+  - asymmetrical bangs
+  - hair over eyes
+  - hair over one eye
+  - parted bangs
+  - swept bangs
+  - hair between eyes
+  - hair intakes
+  - sidelocks
+
+others:
+  - hair flaps
+  - ahoge
+  - antenna hair
